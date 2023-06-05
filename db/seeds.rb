@@ -1,3 +1,4 @@
+
 puts "Deleting old data..."
 Product.destroy_all
 User.destroy_all
